@@ -1,3 +1,6 @@
+# Copyright © 2025 Saqib Ali Khan. All Rights Reserved.
+# Licensed under Business Source License 1.1
+
 """ZeroVeil client SDK.
 
 Minimal client for the ZeroVeil privacy relay:

@@ -1,3 +1,6 @@
+# Copyright © 2025 Saqib Ali Khan. All Rights Reserved.
+# Licensed under Business Source License 1.1
+
 """Minimal configuration for ZeroVeil client SDK.
 
 Connection settings only. All routing, tier selection, and model

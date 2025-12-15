@@ -1,3 +1,6 @@
+# Copyright © 2025 Saqib Ali Khan. All Rights Reserved.
+# Licensed under Business Source License 1.1
+
 """Device capability detection utility.
 
 Reports hardware capabilities (GPU, CPU, RAM) for client-side use.

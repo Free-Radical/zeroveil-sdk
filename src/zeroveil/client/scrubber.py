@@ -1,3 +1,6 @@
+# Copyright © 2025 Saqib Ali Khan. All Rights Reserved.
+# Licensed under Business Source License 1.1
+
 """Thin Presidio wrapper for PII scrubbing.
 
 Simple scrub() function using Microsoft Presidio for PII detection.

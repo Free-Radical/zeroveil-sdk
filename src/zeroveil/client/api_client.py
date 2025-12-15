@@ -1,3 +1,6 @@
+# Copyright © 2025 Saqib Ali Khan. All Rights Reserved.
+# Licensed under Business Source License 1.1
+
 """Simple API client for ZeroVeil relay.
 
 Minimal HTTP client with send/receive operations.
