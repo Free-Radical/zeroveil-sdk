@@ -28,3 +28,4 @@ venv/
 *.swo
 .DS_Store
 .aiconfig
+.private/
