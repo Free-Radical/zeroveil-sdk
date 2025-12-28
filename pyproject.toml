@@ -9,9 +9,7 @@ description = "Minimal client SDK for ZeroVeil privacy relay"
 readme = "README.md"
 license = "BUSL-1.1"
 requires-python = ">=3.10"
-authors = ["Saqib Ali Khan <Saqib.Khan@me.com>"]
-    { name = "Saqib Ali Khan", email = "Saqib.Khan@Me.com" }
-]
+authors = [{ name = "Saqib Ali Khan", email = "Saqib.Khan@me.com" }]
 keywords = [
     "llm",
     "privacy",
