@@ -74,7 +74,7 @@ Issues = "https://github.com/Free-Radical/Cortex1-ZeroVeil/issues"
 zeroveil-device = "zeroveil.client.device_detector:print_device_info"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/zeroveil", "src/zeroveil_pro"]
+packages = ["src/zeroveil"]
 
 [tool.hatch.build.targets.sdist]
 include = [

@@ -28,4 +28,6 @@ venv/
 *.swo
 .DS_Store
 .aiconfig
+.ai_attribution_whitelist
+.claude/
 .private/
